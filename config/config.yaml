@@ -1,0 +1,7 @@
+server:
+  host: "localhost"
+  port: 8080
+
+database:
+  driver: "sqlite3"
+  connection: "/Users/v/Projects/CleanArchTest/clarchtest.db"
